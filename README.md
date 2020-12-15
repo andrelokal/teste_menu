@@ -41,7 +41,7 @@ Este projeto código livre.
 ## Autor
     * André Martos - andrelokal@gmail.com
 
-
+## Thalles Quintiliano
 
 
 
